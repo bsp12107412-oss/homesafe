@@ -1,7 +1,7 @@
 {
-  "name": "홈세이프 스코어",
-  "short_name": "홈세이프",
-  "description": "취약가구 주거위험 통합진단 플랫폼",
+  "name": "모리안 홈세이프",
+  "short_name": "모리안 홈세이프",
+  "description": "취약가구 주거위험 통합진단 플랫폼 · 모리안",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#F6F5F1",
